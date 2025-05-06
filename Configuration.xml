@@ -262,6 +262,8 @@
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>ВариантыНоменклатуры</Catalog>
+			<Catalog>ДополнительныеСвойстваНоменклатуры</Catalog>
 			<Document>ПриходнаяНакладная</Document>
 			<Document>ОказаниеУслуги</Document>
 			<Enum>ВидыНоменклатуры</Enum>
@@ -272,10 +274,13 @@
 			<Report>ПереченьУслуг</Report>
 			<Report>РейтингКлиентов</Report>
 			<Report>Универсальный</Report>
+			<Report>ОстаткиМатериаловПоСвойствам</Report>
 			<InformationRegister>Цены</InformationRegister>
+			<InformationRegister>ЗначенияСвойствНоменклатуры</InformationRegister>
 			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
 			<AccumulationRegister>СтоимостьМатериалов</AccumulationRegister>
 			<AccumulationRegister>Продажи</AccumulationRegister>
+			<ChartOfCharacteristicTypes>СвойстваНоменклатуры</ChartOfCharacteristicTypes>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
